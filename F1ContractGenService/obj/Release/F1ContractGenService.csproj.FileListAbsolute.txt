@@ -1,0 +1,490 @@
+C:\GZN\ForestOne\Todo\3. CRM\Service\F1ContractGenService\F1ContractGenService\bin\F1ContractGenService.dll.config
+C:\GZN\ForestOne\Todo\3. CRM\Service\F1ContractGenService\F1ContractGenService\bin\F1ContractGenService.dll
+C:\GZN\ForestOne\Todo\3. CRM\Service\F1ContractGenService\F1ContractGenService\bin\F1ContractGenService.pdb
+C:\GZN\ForestOne\Todo\3. CRM\Service\F1ContractGenService\F1ContractGenService\bin\roslyn\csc.exe
+C:\GZN\ForestOne\Todo\3. CRM\Service\F1ContractGenService\F1ContractGenService\bin\roslyn\csc.exe.config
+C:\GZN\ForestOne\Todo\3. CRM\Service\F1ContractGenService\F1ContractGenService\bin\roslyn\csc.rsp
+C:\GZN\ForestOne\Todo\3. CRM\Service\F1ContractGenService\F1ContractGenService\bin\roslyn\csi.exe
+C:\GZN\ForestOne\Todo\3. CRM\Service\F1ContractGenService\F1ContractGenService\bin\roslyn\csi.exe.config
+C:\GZN\ForestOne\Todo\3. CRM\Service\F1ContractGenService\F1ContractGenService\bin\roslyn\csi.rsp
+C:\GZN\ForestOne\Todo\3. CRM\Service\F1ContractGenService\F1ContractGenService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\GZN\ForestOne\Todo\3. CRM\Service\F1ContractGenService\F1ContractGenService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\GZN\ForestOne\Todo\3. CRM\Service\F1ContractGenService\F1ContractGenService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\GZN\ForestOne\Todo\3. CRM\Service\F1ContractGenService\F1ContractGenService\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\GZN\ForestOne\Todo\3. CRM\Service\F1ContractGenService\F1ContractGenService\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\GZN\ForestOne\Todo\3. CRM\Service\F1ContractGenService\F1ContractGenService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\GZN\ForestOne\Todo\3. CRM\Service\F1ContractGenService\F1ContractGenService\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\GZN\ForestOne\Todo\3. CRM\Service\F1ContractGenService\F1ContractGenService\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\GZN\ForestOne\Todo\3. CRM\Service\F1ContractGenService\F1ContractGenService\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\GZN\ForestOne\Todo\3. CRM\Service\F1ContractGenService\F1ContractGenService\bin\roslyn\Microsoft.Managed.Core.targets
+C:\GZN\ForestOne\Todo\3. CRM\Service\F1ContractGenService\F1ContractGenService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\GZN\ForestOne\Todo\3. CRM\Service\F1ContractGenService\F1ContractGenService\bin\roslyn\System.AppContext.dll
+C:\GZN\ForestOne\Todo\3. CRM\Service\F1ContractGenService\F1ContractGenService\bin\roslyn\System.Collections.Immutable.dll
+C:\GZN\ForestOne\Todo\3. CRM\Service\F1ContractGenService\F1ContractGenService\bin\roslyn\System.Console.dll
+C:\GZN\ForestOne\Todo\3. CRM\Service\F1ContractGenService\F1ContractGenService\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\GZN\ForestOne\Todo\3. CRM\Service\F1ContractGenService\F1ContractGenService\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\GZN\ForestOne\Todo\3. CRM\Service\F1ContractGenService\F1ContractGenService\bin\roslyn\System.IO.Compression.dll
+C:\GZN\ForestOne\Todo\3. CRM\Service\F1ContractGenService\F1ContractGenService\bin\roslyn\System.IO.FileSystem.dll
+C:\GZN\ForestOne\Todo\3. CRM\Service\F1ContractGenService\F1ContractGenService\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\GZN\ForestOne\Todo\3. CRM\Service\F1ContractGenService\F1ContractGenService\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\GZN\ForestOne\Todo\3. CRM\Service\F1ContractGenService\F1ContractGenService\bin\roslyn\System.IO.Pipes.dll
+C:\GZN\ForestOne\Todo\3. CRM\Service\F1ContractGenService\F1ContractGenService\bin\roslyn\System.Reflection.Metadata.dll
+C:\GZN\ForestOne\Todo\3. CRM\Service\F1ContractGenService\F1ContractGenService\bin\roslyn\System.Security.AccessControl.dll
+C:\GZN\ForestOne\Todo\3. CRM\Service\F1ContractGenService\F1ContractGenService\bin\roslyn\System.Security.Claims.dll
+C:\GZN\ForestOne\Todo\3. CRM\Service\F1ContractGenService\F1ContractGenService\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\GZN\ForestOne\Todo\3. CRM\Service\F1ContractGenService\F1ContractGenService\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\GZN\ForestOne\Todo\3. CRM\Service\F1ContractGenService\F1ContractGenService\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\GZN\ForestOne\Todo\3. CRM\Service\F1ContractGenService\F1ContractGenService\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\GZN\ForestOne\Todo\3. CRM\Service\F1ContractGenService\F1ContractGenService\bin\roslyn\System.Security.Principal.Windows.dll
+C:\GZN\ForestOne\Todo\3. CRM\Service\F1ContractGenService\F1ContractGenService\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\GZN\ForestOne\Todo\3. CRM\Service\F1ContractGenService\F1ContractGenService\bin\roslyn\System.ValueTuple.dll
+C:\GZN\ForestOne\Todo\3. CRM\Service\F1ContractGenService\F1ContractGenService\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\GZN\ForestOne\Todo\3. CRM\Service\F1ContractGenService\F1ContractGenService\bin\roslyn\System.Xml.XmlDocument.dll
+C:\GZN\ForestOne\Todo\3. CRM\Service\F1ContractGenService\F1ContractGenService\bin\roslyn\System.Xml.XPath.dll
+C:\GZN\ForestOne\Todo\3. CRM\Service\F1ContractGenService\F1ContractGenService\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\GZN\ForestOne\Todo\3. CRM\Service\F1ContractGenService\F1ContractGenService\bin\roslyn\vbc.exe
+C:\GZN\ForestOne\Todo\3. CRM\Service\F1ContractGenService\F1ContractGenService\bin\roslyn\vbc.exe.config
+C:\GZN\ForestOne\Todo\3. CRM\Service\F1ContractGenService\F1ContractGenService\bin\roslyn\vbc.rsp
+C:\GZN\ForestOne\Todo\3. CRM\Service\F1ContractGenService\F1ContractGenService\bin\roslyn\VBCSCompiler.exe
+C:\GZN\ForestOne\Todo\3. CRM\Service\F1ContractGenService\F1ContractGenService\bin\roslyn\VBCSCompiler.exe.config
+C:\GZN\ForestOne\Todo\3. CRM\Service\F1ContractGenService\F1ContractGenService\bin\Antlr3.Runtime.dll
+C:\GZN\ForestOne\Todo\3. CRM\Service\F1ContractGenService\F1ContractGenService\bin\IronPdf.Assets.Rendering.Windows.dll
+C:\GZN\ForestOne\Todo\3. CRM\Service\F1ContractGenService\F1ContractGenService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\GZN\ForestOne\Todo\3. CRM\Service\F1ContractGenService\F1ContractGenService\bin\Microsoft.Owin.dll
+C:\GZN\ForestOne\Todo\3. CRM\Service\F1ContractGenService\F1ContractGenService\bin\Microsoft.Owin.Security.dll
+C:\GZN\ForestOne\Todo\3. CRM\Service\F1ContractGenService\F1ContractGenService\bin\Microsoft.Owin.Security.OAuth.dll
+C:\GZN\ForestOne\Todo\3. CRM\Service\F1ContractGenService\F1ContractGenService\bin\Microsoft.Web.Infrastructure.dll
+C:\GZN\ForestOne\Todo\3. CRM\Service\F1ContractGenService\F1ContractGenService\bin\MvxSockN.dll
+C:\GZN\ForestOne\Todo\3. CRM\Service\F1ContractGenService\F1ContractGenService\bin\Newtonsoft.Json.dll
+C:\GZN\ForestOne\Todo\3. CRM\Service\F1ContractGenService\F1ContractGenService\bin\NLog.dll
+C:\GZN\ForestOne\Todo\3. CRM\Service\F1ContractGenService\F1ContractGenService\bin\NReco.PdfGenerator.dll
+C:\GZN\ForestOne\Todo\3. CRM\Service\F1ContractGenService\F1ContractGenService\bin\Owin.dll
+C:\GZN\ForestOne\Todo\3. CRM\Service\F1ContractGenService\F1ContractGenService\bin\System.Net.Http.Formatting.dll
+C:\GZN\ForestOne\Todo\3. CRM\Service\F1ContractGenService\F1ContractGenService\bin\System.Web.Cors.dll
+C:\GZN\ForestOne\Todo\3. CRM\Service\F1ContractGenService\F1ContractGenService\bin\System.Web.Helpers.dll
+C:\GZN\ForestOne\Todo\3. CRM\Service\F1ContractGenService\F1ContractGenService\bin\System.Web.Http.Cors.dll
+C:\GZN\ForestOne\Todo\3. CRM\Service\F1ContractGenService\F1ContractGenService\bin\System.Web.Http.dll
+C:\GZN\ForestOne\Todo\3. CRM\Service\F1ContractGenService\F1ContractGenService\bin\System.Web.Http.WebHost.dll
+C:\GZN\ForestOne\Todo\3. CRM\Service\F1ContractGenService\F1ContractGenService\bin\System.Web.Mvc.dll
+C:\GZN\ForestOne\Todo\3. CRM\Service\F1ContractGenService\F1ContractGenService\bin\System.Web.Optimization.dll
+C:\GZN\ForestOne\Todo\3. CRM\Service\F1ContractGenService\F1ContractGenService\bin\System.Web.Razor.dll
+C:\GZN\ForestOne\Todo\3. CRM\Service\F1ContractGenService\F1ContractGenService\bin\System.Web.WebPages.Deployment.dll
+C:\GZN\ForestOne\Todo\3. CRM\Service\F1ContractGenService\F1ContractGenService\bin\System.Web.WebPages.dll
+C:\GZN\ForestOne\Todo\3. CRM\Service\F1ContractGenService\F1ContractGenService\bin\System.Web.WebPages.Razor.dll
+C:\GZN\ForestOne\Todo\3. CRM\Service\F1ContractGenService\F1ContractGenService\bin\WebGrease.dll
+C:\GZN\ForestOne\Todo\3. CRM\Service\F1ContractGenService\F1ContractGenService\bin\Microsoft.Owin.xml
+C:\GZN\ForestOne\Todo\3. CRM\Service\F1ContractGenService\F1ContractGenService\bin\Microsoft.Owin.Security.xml
+C:\GZN\ForestOne\Todo\3. CRM\Service\F1ContractGenService\F1ContractGenService\bin\Microsoft.Owin.Security.OAuth.xml
+C:\GZN\ForestOne\Todo\3. CRM\Service\F1ContractGenService\F1ContractGenService\bin\NLog.xml
+C:\GZN\ForestOne\Todo\3. CRM\Service\F1ContractGenService\F1ContractGenService\bin\NReco.PdfGenerator.xml
+C:\GZN\ForestOne\Todo\3. CRM\Service\F1ContractGenService\F1ContractGenService\bin\System.Net.Http.Formatting.xml
+C:\GZN\ForestOne\Todo\3. CRM\Service\F1ContractGenService\F1ContractGenService\bin\System.Web.Http.xml
+C:\GZN\ForestOne\Todo\3. CRM\Service\F1ContractGenService\F1ContractGenService\bin\System.Web.Http.Cors.xml
+C:\GZN\ForestOne\Todo\3. CRM\Service\F1ContractGenService\F1ContractGenService\bin\Newtonsoft.Json.xml
+C:\GZN\ForestOne\Todo\3. CRM\Service\F1ContractGenService\F1ContractGenService\bin\System.Web.Helpers.xml
+C:\GZN\ForestOne\Todo\3. CRM\Service\F1ContractGenService\F1ContractGenService\bin\System.Web.Http.WebHost.xml
+C:\GZN\ForestOne\Todo\3. CRM\Service\F1ContractGenService\F1ContractGenService\bin\System.Web.Mvc.xml
+C:\GZN\ForestOne\Todo\3. CRM\Service\F1ContractGenService\F1ContractGenService\bin\System.Web.Optimization.xml
+C:\GZN\ForestOne\Todo\3. CRM\Service\F1ContractGenService\F1ContractGenService\bin\System.Web.Razor.xml
+C:\GZN\ForestOne\Todo\3. CRM\Service\F1ContractGenService\F1ContractGenService\bin\System.Web.WebPages.xml
+C:\GZN\ForestOne\Todo\3. CRM\Service\F1ContractGenService\F1ContractGenService\bin\System.Web.WebPages.Deployment.xml
+C:\GZN\ForestOne\Todo\3. CRM\Service\F1ContractGenService\F1ContractGenService\bin\System.Web.WebPages.Razor.xml
+C:\GZN\ForestOne\Todo\3. CRM\Service\F1ContractGenService\F1ContractGenService\bin\Antlr3.Runtime.pdb
+C:\GZN\ForestOne\Todo\3. CRM\Service\F1ContractGenService\F1ContractGenService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\GZN\ForestOne\Todo\3. CRM\Service\F1ContractGenService\F1ContractGenService\obj\Release\F1ContractGenService.csproj.CoreCompileInputs.cache
+C:\GZN\ForestOne\Todo\3. CRM\Service\F1ContractGenService\F1ContractGenService\obj\Release\F1ContractGenService.csproj.CopyComplete
+C:\GZN\ForestOne\Todo\3. CRM\Service\F1ContractGenService\F1ContractGenService\obj\Release\F1ContractGenService.dll
+C:\GZN\ForestOne\Todo\3. CRM\Service\F1ContractGenService\F1ContractGenService\obj\Release\F1ContractGenService.pdb
+C:\GZN\ForestOne\Todo\3. CRM\Service\F1ContractGenService\F1ContractGenService\obj\Release\F1ContractGenService.csprojAssemblyReference.cache
+C:\Fortude_Technical\ToDos\64. PriceList Gen\New\F1ContractGenService\F1ContractGenService\bin\F1ContractGenService.dll.config
+C:\Fortude_Technical\ToDos\64. PriceList Gen\New\F1ContractGenService\F1ContractGenService\bin\F1ContractGenService.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\New\F1ContractGenService\F1ContractGenService\bin\F1ContractGenService.pdb
+C:\Fortude_Technical\ToDos\64. PriceList Gen\New\F1ContractGenService\F1ContractGenService\bin\roslyn\csc.exe
+C:\Fortude_Technical\ToDos\64. PriceList Gen\New\F1ContractGenService\F1ContractGenService\bin\roslyn\csc.exe.config
+C:\Fortude_Technical\ToDos\64. PriceList Gen\New\F1ContractGenService\F1ContractGenService\bin\roslyn\csc.rsp
+C:\Fortude_Technical\ToDos\64. PriceList Gen\New\F1ContractGenService\F1ContractGenService\bin\roslyn\csi.exe
+C:\Fortude_Technical\ToDos\64. PriceList Gen\New\F1ContractGenService\F1ContractGenService\bin\roslyn\csi.exe.config
+C:\Fortude_Technical\ToDos\64. PriceList Gen\New\F1ContractGenService\F1ContractGenService\bin\roslyn\csi.rsp
+C:\Fortude_Technical\ToDos\64. PriceList Gen\New\F1ContractGenService\F1ContractGenService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\New\F1ContractGenService\F1ContractGenService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\New\F1ContractGenService\F1ContractGenService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\New\F1ContractGenService\F1ContractGenService\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\New\F1ContractGenService\F1ContractGenService\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\New\F1ContractGenService\F1ContractGenService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\New\F1ContractGenService\F1ContractGenService\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Fortude_Technical\ToDos\64. PriceList Gen\New\F1ContractGenService\F1ContractGenService\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\New\F1ContractGenService\F1ContractGenService\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\New\F1ContractGenService\F1ContractGenService\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Fortude_Technical\ToDos\64. PriceList Gen\New\F1ContractGenService\F1ContractGenService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Fortude_Technical\ToDos\64. PriceList Gen\New\F1ContractGenService\F1ContractGenService\bin\roslyn\System.AppContext.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\New\F1ContractGenService\F1ContractGenService\bin\roslyn\System.Collections.Immutable.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\New\F1ContractGenService\F1ContractGenService\bin\roslyn\System.Console.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\New\F1ContractGenService\F1ContractGenService\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\New\F1ContractGenService\F1ContractGenService\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\New\F1ContractGenService\F1ContractGenService\bin\roslyn\System.IO.Compression.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\New\F1ContractGenService\F1ContractGenService\bin\roslyn\System.IO.FileSystem.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\New\F1ContractGenService\F1ContractGenService\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\New\F1ContractGenService\F1ContractGenService\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\New\F1ContractGenService\F1ContractGenService\bin\roslyn\System.IO.Pipes.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\New\F1ContractGenService\F1ContractGenService\bin\roslyn\System.Reflection.Metadata.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\New\F1ContractGenService\F1ContractGenService\bin\roslyn\System.Security.AccessControl.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\New\F1ContractGenService\F1ContractGenService\bin\roslyn\System.Security.Claims.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\New\F1ContractGenService\F1ContractGenService\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\New\F1ContractGenService\F1ContractGenService\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\New\F1ContractGenService\F1ContractGenService\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\New\F1ContractGenService\F1ContractGenService\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\New\F1ContractGenService\F1ContractGenService\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\New\F1ContractGenService\F1ContractGenService\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\New\F1ContractGenService\F1ContractGenService\bin\roslyn\System.ValueTuple.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\New\F1ContractGenService\F1ContractGenService\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\New\F1ContractGenService\F1ContractGenService\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\New\F1ContractGenService\F1ContractGenService\bin\roslyn\System.Xml.XPath.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\New\F1ContractGenService\F1ContractGenService\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\New\F1ContractGenService\F1ContractGenService\bin\roslyn\vbc.exe
+C:\Fortude_Technical\ToDos\64. PriceList Gen\New\F1ContractGenService\F1ContractGenService\bin\roslyn\vbc.exe.config
+C:\Fortude_Technical\ToDos\64. PriceList Gen\New\F1ContractGenService\F1ContractGenService\bin\roslyn\vbc.rsp
+C:\Fortude_Technical\ToDos\64. PriceList Gen\New\F1ContractGenService\F1ContractGenService\bin\roslyn\VBCSCompiler.exe
+C:\Fortude_Technical\ToDos\64. PriceList Gen\New\F1ContractGenService\F1ContractGenService\bin\roslyn\VBCSCompiler.exe.config
+C:\Fortude_Technical\ToDos\64. PriceList Gen\New\F1ContractGenService\F1ContractGenService\bin\Antlr3.Runtime.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\New\F1ContractGenService\F1ContractGenService\bin\IronPdf.Assets.Rendering.Windows.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\New\F1ContractGenService\F1ContractGenService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\New\F1ContractGenService\F1ContractGenService\bin\Microsoft.Owin.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\New\F1ContractGenService\F1ContractGenService\bin\Microsoft.Owin.Security.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\New\F1ContractGenService\F1ContractGenService\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\New\F1ContractGenService\F1ContractGenService\bin\Microsoft.Web.Infrastructure.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\New\F1ContractGenService\F1ContractGenService\bin\MvxSockN.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\New\F1ContractGenService\F1ContractGenService\bin\Newtonsoft.Json.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\New\F1ContractGenService\F1ContractGenService\bin\NLog.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\New\F1ContractGenService\F1ContractGenService\bin\NReco.PdfGenerator.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\New\F1ContractGenService\F1ContractGenService\bin\Owin.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\New\F1ContractGenService\F1ContractGenService\bin\System.Net.Http.Formatting.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\New\F1ContractGenService\F1ContractGenService\bin\System.Web.Cors.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\New\F1ContractGenService\F1ContractGenService\bin\System.Web.Helpers.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\New\F1ContractGenService\F1ContractGenService\bin\System.Web.Http.Cors.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\New\F1ContractGenService\F1ContractGenService\bin\System.Web.Http.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\New\F1ContractGenService\F1ContractGenService\bin\System.Web.Http.WebHost.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\New\F1ContractGenService\F1ContractGenService\bin\System.Web.Mvc.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\New\F1ContractGenService\F1ContractGenService\bin\System.Web.Optimization.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\New\F1ContractGenService\F1ContractGenService\bin\System.Web.Razor.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\New\F1ContractGenService\F1ContractGenService\bin\System.Web.WebPages.Deployment.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\New\F1ContractGenService\F1ContractGenService\bin\System.Web.WebPages.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\New\F1ContractGenService\F1ContractGenService\bin\System.Web.WebPages.Razor.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\New\F1ContractGenService\F1ContractGenService\bin\WebGrease.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\New\F1ContractGenService\F1ContractGenService\bin\Microsoft.Owin.xml
+C:\Fortude_Technical\ToDos\64. PriceList Gen\New\F1ContractGenService\F1ContractGenService\bin\Microsoft.Owin.Security.xml
+C:\Fortude_Technical\ToDos\64. PriceList Gen\New\F1ContractGenService\F1ContractGenService\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Fortude_Technical\ToDos\64. PriceList Gen\New\F1ContractGenService\F1ContractGenService\bin\NLog.xml
+C:\Fortude_Technical\ToDos\64. PriceList Gen\New\F1ContractGenService\F1ContractGenService\bin\NReco.PdfGenerator.xml
+C:\Fortude_Technical\ToDos\64. PriceList Gen\New\F1ContractGenService\F1ContractGenService\bin\System.Net.Http.Formatting.xml
+C:\Fortude_Technical\ToDos\64. PriceList Gen\New\F1ContractGenService\F1ContractGenService\bin\System.Web.Http.xml
+C:\Fortude_Technical\ToDos\64. PriceList Gen\New\F1ContractGenService\F1ContractGenService\bin\System.Web.Http.Cors.xml
+C:\Fortude_Technical\ToDos\64. PriceList Gen\New\F1ContractGenService\F1ContractGenService\bin\Newtonsoft.Json.xml
+C:\Fortude_Technical\ToDos\64. PriceList Gen\New\F1ContractGenService\F1ContractGenService\bin\System.Web.Helpers.xml
+C:\Fortude_Technical\ToDos\64. PriceList Gen\New\F1ContractGenService\F1ContractGenService\bin\System.Web.Http.WebHost.xml
+C:\Fortude_Technical\ToDos\64. PriceList Gen\New\F1ContractGenService\F1ContractGenService\bin\System.Web.Mvc.xml
+C:\Fortude_Technical\ToDos\64. PriceList Gen\New\F1ContractGenService\F1ContractGenService\bin\System.Web.Optimization.xml
+C:\Fortude_Technical\ToDos\64. PriceList Gen\New\F1ContractGenService\F1ContractGenService\bin\System.Web.Razor.xml
+C:\Fortude_Technical\ToDos\64. PriceList Gen\New\F1ContractGenService\F1ContractGenService\bin\System.Web.WebPages.xml
+C:\Fortude_Technical\ToDos\64. PriceList Gen\New\F1ContractGenService\F1ContractGenService\bin\System.Web.WebPages.Deployment.xml
+C:\Fortude_Technical\ToDos\64. PriceList Gen\New\F1ContractGenService\F1ContractGenService\bin\System.Web.WebPages.Razor.xml
+C:\Fortude_Technical\ToDos\64. PriceList Gen\New\F1ContractGenService\F1ContractGenService\bin\Antlr3.Runtime.pdb
+C:\Fortude_Technical\ToDos\64. PriceList Gen\New\F1ContractGenService\F1ContractGenService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Fortude_Technical\ToDos\64. PriceList Gen\New\F1ContractGenService\F1ContractGenService\obj\Release\F1ContractGenService.csprojAssemblyReference.cache
+C:\Fortude_Technical\ToDos\64. PriceList Gen\New\F1ContractGenService\F1ContractGenService\obj\Release\F1ContractGenService.csproj.CoreCompileInputs.cache
+C:\Fortude_Technical\ToDos\64. PriceList Gen\New\F1ContractGenService\F1ContractGenService\obj\Release\F1ContractGenService.csproj.CopyComplete
+C:\Fortude_Technical\ToDos\64. PriceList Gen\New\F1ContractGenService\F1ContractGenService\obj\Release\F1ContractGenService.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\New\F1ContractGenService\F1ContractGenService\obj\Release\F1ContractGenService.pdb
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\Service\F1ContractGenAppService\F1ContractGenService\bin\F1ContractGenService.dll.config
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\Service\F1ContractGenAppService\F1ContractGenService\bin\F1ContractGenService.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\Service\F1ContractGenAppService\F1ContractGenService\bin\F1ContractGenService.pdb
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\csc.exe
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\csc.exe.config
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\csc.rsp
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\csi.exe
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\csi.exe.config
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\csi.rsp
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\System.AppContext.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\System.Collections.Immutable.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\System.Console.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\System.IO.Compression.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\System.IO.FileSystem.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\System.IO.Pipes.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\System.Reflection.Metadata.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\System.Security.AccessControl.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\System.Security.Claims.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\System.ValueTuple.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\System.Xml.XPath.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\vbc.exe
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\vbc.exe.config
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\vbc.rsp
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\VBCSCompiler.exe
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\VBCSCompiler.exe.config
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\Service\F1ContractGenAppService\F1ContractGenService\bin\Antlr3.Runtime.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\Service\F1ContractGenAppService\F1ContractGenService\bin\IronPdf.Assets.Rendering.Windows.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\Service\F1ContractGenAppService\F1ContractGenService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\Service\F1ContractGenAppService\F1ContractGenService\bin\Microsoft.Owin.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\Service\F1ContractGenAppService\F1ContractGenService\bin\Microsoft.Owin.Security.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\Service\F1ContractGenAppService\F1ContractGenService\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\Service\F1ContractGenAppService\F1ContractGenService\bin\Microsoft.Web.Infrastructure.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\Service\F1ContractGenAppService\F1ContractGenService\bin\MvxSockN.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\Service\F1ContractGenAppService\F1ContractGenService\bin\Newtonsoft.Json.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\Service\F1ContractGenAppService\F1ContractGenService\bin\NLog.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\Service\F1ContractGenAppService\F1ContractGenService\bin\NReco.PdfGenerator.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\Service\F1ContractGenAppService\F1ContractGenService\bin\Owin.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\Service\F1ContractGenAppService\F1ContractGenService\bin\System.Net.Http.Formatting.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\Service\F1ContractGenAppService\F1ContractGenService\bin\System.Web.Cors.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\Service\F1ContractGenAppService\F1ContractGenService\bin\System.Web.Helpers.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\Service\F1ContractGenAppService\F1ContractGenService\bin\System.Web.Http.Cors.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\Service\F1ContractGenAppService\F1ContractGenService\bin\System.Web.Http.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\Service\F1ContractGenAppService\F1ContractGenService\bin\System.Web.Http.WebHost.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\Service\F1ContractGenAppService\F1ContractGenService\bin\System.Web.Mvc.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\Service\F1ContractGenAppService\F1ContractGenService\bin\System.Web.Optimization.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\Service\F1ContractGenAppService\F1ContractGenService\bin\System.Web.Razor.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\Service\F1ContractGenAppService\F1ContractGenService\bin\System.Web.WebPages.Deployment.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\Service\F1ContractGenAppService\F1ContractGenService\bin\System.Web.WebPages.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\Service\F1ContractGenAppService\F1ContractGenService\bin\System.Web.WebPages.Razor.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\Service\F1ContractGenAppService\F1ContractGenService\bin\WebGrease.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\Service\F1ContractGenAppService\F1ContractGenService\bin\Microsoft.Owin.xml
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\Service\F1ContractGenAppService\F1ContractGenService\bin\Microsoft.Owin.Security.xml
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\Service\F1ContractGenAppService\F1ContractGenService\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\Service\F1ContractGenAppService\F1ContractGenService\bin\NLog.xml
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\Service\F1ContractGenAppService\F1ContractGenService\bin\NReco.PdfGenerator.xml
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\Service\F1ContractGenAppService\F1ContractGenService\bin\System.Net.Http.Formatting.xml
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\Service\F1ContractGenAppService\F1ContractGenService\bin\System.Web.Http.xml
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\Service\F1ContractGenAppService\F1ContractGenService\bin\System.Web.Http.Cors.xml
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\Service\F1ContractGenAppService\F1ContractGenService\bin\Newtonsoft.Json.xml
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\Service\F1ContractGenAppService\F1ContractGenService\bin\System.Web.Helpers.xml
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\Service\F1ContractGenAppService\F1ContractGenService\bin\System.Web.Http.WebHost.xml
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\Service\F1ContractGenAppService\F1ContractGenService\bin\System.Web.Mvc.xml
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\Service\F1ContractGenAppService\F1ContractGenService\bin\System.Web.Optimization.xml
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\Service\F1ContractGenAppService\F1ContractGenService\bin\System.Web.Razor.xml
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\Service\F1ContractGenAppService\F1ContractGenService\bin\System.Web.WebPages.xml
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\Service\F1ContractGenAppService\F1ContractGenService\bin\System.Web.WebPages.Deployment.xml
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\Service\F1ContractGenAppService\F1ContractGenService\bin\System.Web.WebPages.Razor.xml
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\Service\F1ContractGenAppService\F1ContractGenService\bin\Antlr3.Runtime.pdb
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\Service\F1ContractGenAppService\F1ContractGenService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\Service\F1ContractGenAppService\F1ContractGenService\obj\Release\F1ContractGenService.csprojAssemblyReference.cache
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\Service\F1ContractGenAppService\F1ContractGenService\obj\Release\F1ContractGenService.csproj.CoreCompileInputs.cache
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\Service\F1ContractGenAppService\F1ContractGenService\obj\Release\F1ContractGenService.csproj.CopyComplete
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\Service\F1ContractGenAppService\F1ContractGenService\obj\Release\F1ContractGenService.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\Service\F1ContractGenAppService\F1ContractGenService\obj\Release\F1ContractGenService.pdb
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\03122020-Service\F1ContractGenAppService\F1ContractGenService\bin\F1ContractGenService.dll.config
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\03122020-Service\F1ContractGenAppService\F1ContractGenService\bin\F1ContractGenService.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\03122020-Service\F1ContractGenAppService\F1ContractGenService\bin\F1ContractGenService.pdb
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\03122020-Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\csc.exe
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\03122020-Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\csc.exe.config
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\03122020-Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\csc.rsp
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\03122020-Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\csi.exe
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\03122020-Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\csi.exe.config
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\03122020-Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\csi.rsp
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\03122020-Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\03122020-Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\03122020-Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\03122020-Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\03122020-Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\03122020-Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\03122020-Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\03122020-Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\03122020-Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\03122020-Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\03122020-Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\03122020-Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\System.AppContext.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\03122020-Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\System.Collections.Immutable.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\03122020-Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\System.Console.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\03122020-Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\03122020-Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\03122020-Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\System.IO.Compression.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\03122020-Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\System.IO.FileSystem.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\03122020-Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\03122020-Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\03122020-Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\System.IO.Pipes.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\03122020-Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\System.Reflection.Metadata.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\03122020-Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\System.Security.AccessControl.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\03122020-Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\System.Security.Claims.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\03122020-Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\03122020-Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\03122020-Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\03122020-Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\03122020-Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\03122020-Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\03122020-Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\System.ValueTuple.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\03122020-Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\03122020-Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\03122020-Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\System.Xml.XPath.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\03122020-Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\03122020-Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\vbc.exe
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\03122020-Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\vbc.exe.config
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\03122020-Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\vbc.rsp
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\03122020-Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\VBCSCompiler.exe
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\03122020-Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\VBCSCompiler.exe.config
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\03122020-Service\F1ContractGenAppService\F1ContractGenService\bin\Antlr3.Runtime.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\03122020-Service\F1ContractGenAppService\F1ContractGenService\bin\IronPdf.Assets.Rendering.Windows.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\03122020-Service\F1ContractGenAppService\F1ContractGenService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\03122020-Service\F1ContractGenAppService\F1ContractGenService\bin\Microsoft.Owin.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\03122020-Service\F1ContractGenAppService\F1ContractGenService\bin\Microsoft.Owin.Security.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\03122020-Service\F1ContractGenAppService\F1ContractGenService\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\03122020-Service\F1ContractGenAppService\F1ContractGenService\bin\Microsoft.Web.Infrastructure.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\03122020-Service\F1ContractGenAppService\F1ContractGenService\bin\MvxSockN.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\03122020-Service\F1ContractGenAppService\F1ContractGenService\bin\Newtonsoft.Json.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\03122020-Service\F1ContractGenAppService\F1ContractGenService\bin\NLog.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\03122020-Service\F1ContractGenAppService\F1ContractGenService\bin\NReco.PdfGenerator.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\03122020-Service\F1ContractGenAppService\F1ContractGenService\bin\Owin.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\03122020-Service\F1ContractGenAppService\F1ContractGenService\bin\System.Net.Http.Formatting.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\03122020-Service\F1ContractGenAppService\F1ContractGenService\bin\System.Web.Cors.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\03122020-Service\F1ContractGenAppService\F1ContractGenService\bin\System.Web.Helpers.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\03122020-Service\F1ContractGenAppService\F1ContractGenService\bin\System.Web.Http.Cors.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\03122020-Service\F1ContractGenAppService\F1ContractGenService\bin\System.Web.Http.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\03122020-Service\F1ContractGenAppService\F1ContractGenService\bin\System.Web.Http.WebHost.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\03122020-Service\F1ContractGenAppService\F1ContractGenService\bin\System.Web.Mvc.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\03122020-Service\F1ContractGenAppService\F1ContractGenService\bin\System.Web.Optimization.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\03122020-Service\F1ContractGenAppService\F1ContractGenService\bin\System.Web.Razor.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\03122020-Service\F1ContractGenAppService\F1ContractGenService\bin\System.Web.WebPages.Deployment.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\03122020-Service\F1ContractGenAppService\F1ContractGenService\bin\System.Web.WebPages.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\03122020-Service\F1ContractGenAppService\F1ContractGenService\bin\System.Web.WebPages.Razor.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\03122020-Service\F1ContractGenAppService\F1ContractGenService\bin\WebGrease.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\03122020-Service\F1ContractGenAppService\F1ContractGenService\bin\Microsoft.Owin.xml
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\03122020-Service\F1ContractGenAppService\F1ContractGenService\bin\Microsoft.Owin.Security.xml
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\03122020-Service\F1ContractGenAppService\F1ContractGenService\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\03122020-Service\F1ContractGenAppService\F1ContractGenService\bin\NLog.xml
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\03122020-Service\F1ContractGenAppService\F1ContractGenService\bin\NReco.PdfGenerator.xml
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\03122020-Service\F1ContractGenAppService\F1ContractGenService\bin\System.Net.Http.Formatting.xml
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\03122020-Service\F1ContractGenAppService\F1ContractGenService\bin\System.Web.Http.xml
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\03122020-Service\F1ContractGenAppService\F1ContractGenService\bin\System.Web.Http.Cors.xml
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\03122020-Service\F1ContractGenAppService\F1ContractGenService\bin\Newtonsoft.Json.xml
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\03122020-Service\F1ContractGenAppService\F1ContractGenService\bin\System.Web.Helpers.xml
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\03122020-Service\F1ContractGenAppService\F1ContractGenService\bin\System.Web.Http.WebHost.xml
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\03122020-Service\F1ContractGenAppService\F1ContractGenService\bin\System.Web.Mvc.xml
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\03122020-Service\F1ContractGenAppService\F1ContractGenService\bin\System.Web.Optimization.xml
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\03122020-Service\F1ContractGenAppService\F1ContractGenService\bin\System.Web.Razor.xml
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\03122020-Service\F1ContractGenAppService\F1ContractGenService\bin\System.Web.WebPages.xml
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\03122020-Service\F1ContractGenAppService\F1ContractGenService\bin\System.Web.WebPages.Deployment.xml
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\03122020-Service\F1ContractGenAppService\F1ContractGenService\bin\System.Web.WebPages.Razor.xml
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\03122020-Service\F1ContractGenAppService\F1ContractGenService\bin\Antlr3.Runtime.pdb
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\03122020-Service\F1ContractGenAppService\F1ContractGenService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\03122020-Service\F1ContractGenAppService\F1ContractGenService\obj\Release\F1ContractGenService.csprojAssemblyReference.cache
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\03122020-Service\F1ContractGenAppService\F1ContractGenService\obj\Release\F1ContractGenService.csproj.CoreCompileInputs.cache
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\03122020-Service\F1ContractGenAppService\F1ContractGenService\obj\Release\F1ContractGenService.csproj.CopyComplete
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\03122020-Service\F1ContractGenAppService\F1ContractGenService\obj\Release\F1ContractGenService.dll
+C:\Fortude_Technical\ToDos\64. PriceList Gen\DevBranch\03122020-Service\F1ContractGenAppService\F1ContractGenService\obj\Release\F1ContractGenService.pdb
+C:\Fortude_Technical\ToDos\82. X\Service\F1ContractGenAppService\F1ContractGenService\bin\F1ContractGenService.dll.config
+C:\Fortude_Technical\ToDos\82. X\Service\F1ContractGenAppService\F1ContractGenService\bin\F1ContractGenService.dll
+C:\Fortude_Technical\ToDos\82. X\Service\F1ContractGenAppService\F1ContractGenService\bin\F1ContractGenService.pdb
+C:\Fortude_Technical\ToDos\82. X\Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\csc.exe
+C:\Fortude_Technical\ToDos\82. X\Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\csc.exe.config
+C:\Fortude_Technical\ToDos\82. X\Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\csc.rsp
+C:\Fortude_Technical\ToDos\82. X\Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\csi.exe
+C:\Fortude_Technical\ToDos\82. X\Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\csi.exe.config
+C:\Fortude_Technical\ToDos\82. X\Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\csi.rsp
+C:\Fortude_Technical\ToDos\82. X\Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Fortude_Technical\ToDos\82. X\Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Fortude_Technical\ToDos\82. X\Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Fortude_Technical\ToDos\82. X\Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Fortude_Technical\ToDos\82. X\Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Fortude_Technical\ToDos\82. X\Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Fortude_Technical\ToDos\82. X\Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Fortude_Technical\ToDos\82. X\Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Fortude_Technical\ToDos\82. X\Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Fortude_Technical\ToDos\82. X\Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Fortude_Technical\ToDos\82. X\Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Fortude_Technical\ToDos\82. X\Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\System.AppContext.dll
+C:\Fortude_Technical\ToDos\82. X\Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\System.Collections.Immutable.dll
+C:\Fortude_Technical\ToDos\82. X\Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\System.Console.dll
+C:\Fortude_Technical\ToDos\82. X\Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Fortude_Technical\ToDos\82. X\Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Fortude_Technical\ToDos\82. X\Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\System.IO.Compression.dll
+C:\Fortude_Technical\ToDos\82. X\Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\System.IO.FileSystem.dll
+C:\Fortude_Technical\ToDos\82. X\Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Fortude_Technical\ToDos\82. X\Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Fortude_Technical\ToDos\82. X\Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\System.IO.Pipes.dll
+C:\Fortude_Technical\ToDos\82. X\Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\System.Reflection.Metadata.dll
+C:\Fortude_Technical\ToDos\82. X\Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\System.Security.AccessControl.dll
+C:\Fortude_Technical\ToDos\82. X\Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\System.Security.Claims.dll
+C:\Fortude_Technical\ToDos\82. X\Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Fortude_Technical\ToDos\82. X\Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Fortude_Technical\ToDos\82. X\Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Fortude_Technical\ToDos\82. X\Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Fortude_Technical\ToDos\82. X\Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Fortude_Technical\ToDos\82. X\Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Fortude_Technical\ToDos\82. X\Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\System.ValueTuple.dll
+C:\Fortude_Technical\ToDos\82. X\Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Fortude_Technical\ToDos\82. X\Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Fortude_Technical\ToDos\82. X\Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\System.Xml.XPath.dll
+C:\Fortude_Technical\ToDos\82. X\Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Fortude_Technical\ToDos\82. X\Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\vbc.exe
+C:\Fortude_Technical\ToDos\82. X\Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\vbc.exe.config
+C:\Fortude_Technical\ToDos\82. X\Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\vbc.rsp
+C:\Fortude_Technical\ToDos\82. X\Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\VBCSCompiler.exe
+C:\Fortude_Technical\ToDos\82. X\Service\F1ContractGenAppService\F1ContractGenService\bin\roslyn\VBCSCompiler.exe.config
+C:\Fortude_Technical\ToDos\82. X\Service\F1ContractGenAppService\F1ContractGenService\bin\Antlr3.Runtime.dll
+C:\Fortude_Technical\ToDos\82. X\Service\F1ContractGenAppService\F1ContractGenService\bin\IronPdf.Assets.Rendering.Windows.dll
+C:\Fortude_Technical\ToDos\82. X\Service\F1ContractGenAppService\F1ContractGenService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Fortude_Technical\ToDos\82. X\Service\F1ContractGenAppService\F1ContractGenService\bin\Microsoft.Owin.dll
+C:\Fortude_Technical\ToDos\82. X\Service\F1ContractGenAppService\F1ContractGenService\bin\Microsoft.Owin.Security.dll
+C:\Fortude_Technical\ToDos\82. X\Service\F1ContractGenAppService\F1ContractGenService\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Fortude_Technical\ToDos\82. X\Service\F1ContractGenAppService\F1ContractGenService\bin\Microsoft.Web.Infrastructure.dll
+C:\Fortude_Technical\ToDos\82. X\Service\F1ContractGenAppService\F1ContractGenService\bin\MvxSockN.dll
+C:\Fortude_Technical\ToDos\82. X\Service\F1ContractGenAppService\F1ContractGenService\bin\Newtonsoft.Json.dll
+C:\Fortude_Technical\ToDos\82. X\Service\F1ContractGenAppService\F1ContractGenService\bin\NLog.dll
+C:\Fortude_Technical\ToDos\82. X\Service\F1ContractGenAppService\F1ContractGenService\bin\NReco.PdfGenerator.dll
+C:\Fortude_Technical\ToDos\82. X\Service\F1ContractGenAppService\F1ContractGenService\bin\Owin.dll
+C:\Fortude_Technical\ToDos\82. X\Service\F1ContractGenAppService\F1ContractGenService\bin\System.Net.Http.Formatting.dll
+C:\Fortude_Technical\ToDos\82. X\Service\F1ContractGenAppService\F1ContractGenService\bin\System.Web.Cors.dll
+C:\Fortude_Technical\ToDos\82. X\Service\F1ContractGenAppService\F1ContractGenService\bin\System.Web.Helpers.dll
+C:\Fortude_Technical\ToDos\82. X\Service\F1ContractGenAppService\F1ContractGenService\bin\System.Web.Http.Cors.dll
+C:\Fortude_Technical\ToDos\82. X\Service\F1ContractGenAppService\F1ContractGenService\bin\System.Web.Http.dll
+C:\Fortude_Technical\ToDos\82. X\Service\F1ContractGenAppService\F1ContractGenService\bin\System.Web.Http.WebHost.dll
+C:\Fortude_Technical\ToDos\82. X\Service\F1ContractGenAppService\F1ContractGenService\bin\System.Web.Mvc.dll
+C:\Fortude_Technical\ToDos\82. X\Service\F1ContractGenAppService\F1ContractGenService\bin\System.Web.Optimization.dll
+C:\Fortude_Technical\ToDos\82. X\Service\F1ContractGenAppService\F1ContractGenService\bin\System.Web.Razor.dll
+C:\Fortude_Technical\ToDos\82. X\Service\F1ContractGenAppService\F1ContractGenService\bin\System.Web.WebPages.Deployment.dll
+C:\Fortude_Technical\ToDos\82. X\Service\F1ContractGenAppService\F1ContractGenService\bin\System.Web.WebPages.dll
+C:\Fortude_Technical\ToDos\82. X\Service\F1ContractGenAppService\F1ContractGenService\bin\System.Web.WebPages.Razor.dll
+C:\Fortude_Technical\ToDos\82. X\Service\F1ContractGenAppService\F1ContractGenService\bin\WebGrease.dll
+C:\Fortude_Technical\ToDos\82. X\Service\F1ContractGenAppService\F1ContractGenService\bin\Microsoft.Owin.xml
+C:\Fortude_Technical\ToDos\82. X\Service\F1ContractGenAppService\F1ContractGenService\bin\Microsoft.Owin.Security.xml
+C:\Fortude_Technical\ToDos\82. X\Service\F1ContractGenAppService\F1ContractGenService\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Fortude_Technical\ToDos\82. X\Service\F1ContractGenAppService\F1ContractGenService\bin\NLog.xml
+C:\Fortude_Technical\ToDos\82. X\Service\F1ContractGenAppService\F1ContractGenService\bin\NReco.PdfGenerator.xml
+C:\Fortude_Technical\ToDos\82. X\Service\F1ContractGenAppService\F1ContractGenService\bin\System.Net.Http.Formatting.xml
+C:\Fortude_Technical\ToDos\82. X\Service\F1ContractGenAppService\F1ContractGenService\bin\System.Web.Http.xml
+C:\Fortude_Technical\ToDos\82. X\Service\F1ContractGenAppService\F1ContractGenService\bin\System.Web.Http.Cors.xml
+C:\Fortude_Technical\ToDos\82. X\Service\F1ContractGenAppService\F1ContractGenService\bin\Newtonsoft.Json.xml
+C:\Fortude_Technical\ToDos\82. X\Service\F1ContractGenAppService\F1ContractGenService\bin\System.Web.Helpers.xml
+C:\Fortude_Technical\ToDos\82. X\Service\F1ContractGenAppService\F1ContractGenService\bin\System.Web.Http.WebHost.xml
+C:\Fortude_Technical\ToDos\82. X\Service\F1ContractGenAppService\F1ContractGenService\bin\System.Web.Mvc.xml
+C:\Fortude_Technical\ToDos\82. X\Service\F1ContractGenAppService\F1ContractGenService\bin\System.Web.Optimization.xml
+C:\Fortude_Technical\ToDos\82. X\Service\F1ContractGenAppService\F1ContractGenService\bin\System.Web.Razor.xml
+C:\Fortude_Technical\ToDos\82. X\Service\F1ContractGenAppService\F1ContractGenService\bin\System.Web.WebPages.xml
+C:\Fortude_Technical\ToDos\82. X\Service\F1ContractGenAppService\F1ContractGenService\bin\System.Web.WebPages.Deployment.xml
+C:\Fortude_Technical\ToDos\82. X\Service\F1ContractGenAppService\F1ContractGenService\bin\System.Web.WebPages.Razor.xml
+C:\Fortude_Technical\ToDos\82. X\Service\F1ContractGenAppService\F1ContractGenService\bin\Antlr3.Runtime.pdb
+C:\Fortude_Technical\ToDos\82. X\Service\F1ContractGenAppService\F1ContractGenService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Fortude_Technical\ToDos\82. X\Service\F1ContractGenAppService\F1ContractGenService\obj\Release\F1ContractGenService.csprojAssemblyReference.cache
+C:\Fortude_Technical\ToDos\82. X\Service\F1ContractGenAppService\F1ContractGenService\obj\Release\F1ContractGenService.csproj.CoreCompileInputs.cache
+C:\Fortude_Technical\ToDos\82. X\Service\F1ContractGenAppService\F1ContractGenService\obj\Release\F1ContractGenService.csproj.CopyComplete
+C:\Fortude_Technical\ToDos\82. X\Service\F1ContractGenAppService\F1ContractGenService\obj\Release\F1ContractGenService.dll
+C:\Fortude_Technical\ToDos\82. X\Service\F1ContractGenAppService\F1ContractGenService\obj\Release\F1ContractGenService.pdb
