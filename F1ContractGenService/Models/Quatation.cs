@@ -8,6 +8,7 @@ namespace F1ContractGenService.Models
     public class Quatation
     {
         public string Owner { get; set; }
+        public string QTCode { get; set; }
         public string ClientName { get; set; }
         public string ClientContact1 { get; set; }
         public string ClientContact2 { get; set; }
@@ -53,4 +54,7 @@ namespace F1ContractGenService.Models
         public string Margin { get; set; }
          
     }
+
+
+
 }

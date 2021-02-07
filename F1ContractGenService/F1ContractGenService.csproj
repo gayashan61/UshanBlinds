@@ -189,6 +189,7 @@
     <Compile Include="Areas\HelpPage\SampleGeneration\SampleDirection.cs" />
     <Compile Include="Areas\HelpPage\SampleGeneration\TextSample.cs" />
     <Compile Include="Areas\HelpPage\XmlDocumentationProvider.cs" />
+    <Compile Include="BusinessLayer\QuationOperations.cs" />
     <Compile Include="Controllers\ContractGenController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\USBQuatationController.cs" />
@@ -197,6 +198,7 @@
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Models\BasePriceItem.cs" />
+    <Compile Include="Models\BlindRoller.cs" />
     <Compile Include="Models\Customer.cs" />
     <Compile Include="Models\PriceItem.cs" />
     <Compile Include="Models\Quatation.cs" />
@@ -212,6 +214,7 @@
     <Content Include="DLL\MvxSock.dll" />
     <Content Include="DLL\MvxSockN.dll" />
     <Content Include="DocumentTemplates\Quatation\Header.html" />
+    <Content Include="DocumentTemplates\Quatation\Lines.html" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />

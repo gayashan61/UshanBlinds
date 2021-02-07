@@ -17,6 +17,7 @@ using System.Text.RegularExpressions;
 using System.Web.Http;
 using System.Web.Http.Cors;
 using System.Web.Http.Results;
+using F1ContractGenService.BusinessLayer;
 
 namespace F1ContractGenService.Controllers
 {
@@ -24,6 +25,8 @@ namespace F1ContractGenService.Controllers
     public class USBQuatationController : ApiController
     {
         private static Logger logger = LogManager.GetCurrentClassLogger();
+
+        
 
 
         [Route("USBDataSerive/Quatations/TESTAPI")]
@@ -58,7 +61,8 @@ namespace F1ContractGenService.Controllers
             try
             {
 
-                QT.Owner = "Nilanthi";
+                QT.QTCode = new QuationOperations().getNextQTCode();
+                QT.Owner = "Ushan Blinds";
 
                 QuatationLines QTLine = new QuatationLines();
                 QTLine.Margin = "10";
@@ -78,13 +82,113 @@ namespace F1ContractGenService.Controllers
 
         }
 
+        //New Item Price
+        [Route("USBDataSerive/Quatations/GetItemPrice")]
+        [HttpPost]
+        public JsonResult<string> GetItemPrice(JObject jsonData)
+        {
+            string price = string.Empty;
+            try
+            {
+                BlindRoller br = new BlindRoller();
+
+                br.MAINCAT = jsonData.Value<string>("MAINCAT").ToString().ToUpper();
+                br.SUBCAT = jsonData.Value<string>("SUBCAT").ToString().ToUpper();
+                br.GROUP = jsonData.Value<string>("GROUP").ToString().ToUpper();
+                br.TYPE = jsonData.Value<string>("TYPE").ToString().ToUpper();
+                br.WIDTH = jsonData.Value<string>("WIDTH").ToString().ToUpper();
+                br.DROP = jsonData.Value<string>("DROP").ToString().ToUpper(); 
+                 
+                price =  new QuationOperations().GetRollerBlindPrice(br);
+                 
+            }
+            catch (Exception ex)
+            {
+
+            }
+            return Json<string>(price);
+
+
+        }
+
+        [Route("USBDataSerive/Quatations/SaveAndGenQT")]
+        [HttpPost]
+        public string SaveAndGenQT(JObject jsonData)
+        {
+            string price = string.Empty;
+            try
+            {
+                string HTNLHeader = string.Empty;
+                string HTMLLine = string.Empty;
+                string Footer = string.Empty;
+
+                JObject header = new JObject();
+                JArray lines = new JArray();
+                header = jsonData.Value<JObject>("Header");
+
+                HTNLHeader = GenerateQuatationHeader(header);
+
+                lines = jsonData.Value<JArray>("Lines");
+
+                int x = 1;
+                foreach (JObject jObj in lines) {
+
+                    string _line = GenerateQuatationLine(jObj,x.ToString());
+
+                    x++;
+                    HTMLLine = HTMLLine + _line;
+                     
+                }
+                 
+                string FooterFix = "</tbody></table>";
+
+                string PDFHTNL = HTNLHeader + HTMLLine + FooterFix;
+
+                PDFHTNL = GeneratePDF(PDFHTNL);
+
+               
+
+                return PDFHTNL;
+
+
+            }
+            catch (Exception ex)
+            {
+                return "";
+            }  
+
+
+        }
+
+        [Route("USBDataSerive/Quatations/DownloadPDF")]
+        [HttpGet]
+        public HttpResponseMessage DownloadPDF(string path)
+        {
+            string localFilePath;
+            localFilePath = @"C:\USBProperties\Documents\Quatations\" + path;
+            HttpResponseMessage response = new HttpResponseMessage(HttpStatusCode.OK);
+            FileStream files = new FileStream(localFilePath, FileMode.Open, FileAccess.Read);
+
+            response.Content = new StreamContent(files);
+            response.Content.Headers.ContentDisposition = new System.Net.Http.Headers.ContentDispositionHeaderValue("attachment");
+            response.Content.Headers.ContentDisposition.FileName = "QT-20001.pdf";
+            response.Content.Headers.ContentType = new MediaTypeHeaderValue("application/pdf");
+            return response;
+        }
 
 
 
 
 
-        //Generate  the Contract from URL
-        [Route("USBDataSerive/Quatations/GetQuatation")]
+
+
+
+
+
+
+
+            //Generate  the Contract from URL
+            [Route("USBDataSerive/Quatations/GetQuatation")]
         [HttpGet]
         public HttpResponseMessage GetQuatation(String CUNO, String InDate)
         {
@@ -235,6 +339,137 @@ namespace F1ContractGenService.Controllers
 
         }
 
+
+
+        private string GeneratePDF(string PDFString)
+        {
+
+           
+            string PDFSavePath = ConfigurationManager.AppSettings.Get("PDF_QUAT");
+            bool exists = System.IO.Directory.Exists(PDFSavePath);
+
+            if (!exists)
+                System.IO.Directory.CreateDirectory(PDFSavePath);
+            string ToDate = DateTime.Now.ToShortDateString();
+            //DateTime newDate = DateTime.ParseExact(ToDate, "ddMMyyyy", CultureInfo.InvariantCulture);
+            try
+            { 
+                string FileName = string.Empty;
+                try
+                {
+                    var htmlToPdf = new NReco.PdfGenerator.HtmlToPdfConverter();
+                    string timestamp = Guid.NewGuid().ToString("N");
+
+                    timestamp = DateTimeOffset.Now.ToUnixTimeMilliseconds().ToString();
+
+
+                    FileName = "Quatation-" + timestamp + ".pdf";
+                    PDFSavePath = PDFSavePath + FileName;
+                    logger.Info("Level3 - PDF File Generate PDFSavePath " + PDFSavePath);
+                    logger.Info("Level3 - PDF File Generate PDFString " + PDFString);
+                    htmlToPdf.GeneratePdf(PDFString, "", PDFSavePath);
+
+
+                    logger.Info("Level3 - PDF File Generate Completed" + FileName);
+                    return FileName;
+                }
+                catch (Exception ex)
+                {
+                    logger.Info("Level3 - PDF File Generate Error Y " + ex.StackTrace);
+
+                }
+
+            }
+            catch (Exception ex)
+            {
+
+            }
+
+
+            return PDFSavePath;
+
+        }
+
+
+        private string GenerateQuatationHeader(JObject header)
+        { 
+            string HeaderHTML = "";
+            string PDFSavePath = ConfigurationManager.AppSettings.Get("PDF_QUAT");
+            bool exists = System.IO.Directory.Exists(PDFSavePath);
+
+            if (!exists)
+                System.IO.Directory.CreateDirectory(PDFSavePath);
+            string ToDate = DateTime.Now.ToShortDateString();
+            //DateTime newDate = DateTime.ParseExact(ToDate, "ddMMyyyy", CultureInfo.InvariantCulture);
+            try
+            { 
+                string path = Path.Combine(Path.GetDirectoryName(AppDomain.CurrentDomain.BaseDirectory), @"DocumentTemplates\Quatation\Header.html");
+                string[] files = File.ReadAllLines(path);
+                 
+                foreach (string x in files) {
+                    HeaderHTML = HeaderHTML + x;
+                }
+                HeaderHTML = HeaderHTML.Replace("\n", "").Replace("\r", "");
+                  
+                HeaderHTML = HeaderHTML.Replace("{{NAME1}}", header.Value<string>("ClientName").ToString());
+                HeaderHTML = HeaderHTML.Replace("{{NAME2}}", header.Value<string>("ClientAddress1").ToString());
+                HeaderHTML = HeaderHTML.Replace("{{NAME3}}", header.Value<string>("ClientAddress2").ToString() + " "+ header.Value<string>("ClientAddress3").ToString());
+
+                HeaderHTML = HeaderHTML.Replace("{{TEL1}}", header.Value<string>("ClientContact1").ToString());
+                HeaderHTML = HeaderHTML.Replace("{{TEL2}}", header.Value<string>("ClientContact2").ToString());
+                HeaderHTML = HeaderHTML.Replace("{{TEL3}}", header.Value<string>("ClientContact2").ToString());
+
+                HeaderHTML = HeaderHTML.Replace("{{JOBADR1}}", header.Value<string>("JobAddress1").ToString());
+                HeaderHTML = HeaderHTML.Replace("{{JOBADR2}}", header.Value<string>("JobAddress2").ToString());
+                HeaderHTML = HeaderHTML.Replace("{{JOBADR3}}", header.Value<string>("JobAddress3").ToString());
+                 
+            }
+            catch (Exception ex)
+            { 
+            } 
+            return HeaderHTML; 
+        }
+
+        private string GenerateQuatationLine(JObject header, string No)
+        {
+            string LineHtml = "";
+            string PDFSavePath = ConfigurationManager.AppSettings.Get("PDF_QUAT");
+            bool exists = System.IO.Directory.Exists(PDFSavePath);
+
+            if (!exists)
+                System.IO.Directory.CreateDirectory(PDFSavePath);
+            string ToDate = DateTime.Now.ToShortDateString();
+            //DateTime newDate = DateTime.ParseExact(ToDate, "ddMMyyyy", CultureInfo.InvariantCulture);
+            try
+            {
+                string path = Path.Combine(Path.GetDirectoryName(AppDomain.CurrentDomain.BaseDirectory), @"DocumentTemplates\Quatation\Lines.html");
+                string[] files = File.ReadAllLines(path);
+
+                foreach (string x in files)
+                {
+                    LineHtml = LineHtml + x;
+                }
+                LineHtml = LineHtml.Replace("\n", "").Replace("\r", "");
+
+                LineHtml = LineHtml.Replace("{{NO}}", No);
+                LineHtml = LineHtml.Replace("{{Code}}", header.Value<string>("Code").ToString());
+                LineHtml = LineHtml.Replace("{{Width}}", header.Value<string>("Width").ToString()  );
+
+                LineHtml = LineHtml.Replace("{{Drop}}", header.Value<string>("Drop").ToString());
+                LineHtml = LineHtml.Replace("{{Range}}", header.Value<string>("Range").ToString());
+                LineHtml = LineHtml.Replace("{{Colour}}", header.Value<string>("Colour").ToString());
+
+                LineHtml = LineHtml.Replace("{{CodeRL}}", header.Value<string>("RL").ToString());
+                LineHtml = LineHtml.Replace("{{StackingDetails}}", header.Value<string>("StackingDetails").ToString());
+                LineHtml = LineHtml.Replace("{{Note}}", header.Value<string>("Description").ToString());
+                LineHtml = LineHtml.Replace("{{Price}}", header.Value<string>("Price").ToString());
+
+            }
+            catch (Exception ex)
+            {
+            }
+            return LineHtml;
+        }
 
     }
 }
