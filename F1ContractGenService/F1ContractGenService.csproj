@@ -191,6 +191,7 @@
     <Compile Include="Areas\HelpPage\XmlDocumentationProvider.cs" />
     <Compile Include="BusinessLayer\QuationOperations.cs" />
     <Compile Include="Controllers\ContractGenController.cs" />
+    <Compile Include="Controllers\EmailProcessor.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\USBQuatationController.cs" />
     <Compile Include="Controllers\ValuesController.cs" />
@@ -213,6 +214,7 @@
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="DLL\MvxSock.dll" />
     <Content Include="DLL\MvxSockN.dll" />
+    <Content Include="DocumentTemplates\Quatation\Footer.html" />
     <Content Include="DocumentTemplates\Quatation\Header.html" />
     <Content Include="DocumentTemplates\Quatation\Lines.html" />
     <Content Include="favicon.ico" />

@@ -63,6 +63,7 @@ namespace F1ContractGenService.Controllers
 
                 QT.QTCode = new QuationOperations().getNextQTCode();
                 QT.Owner = "Ushan Blinds";
+                QT.Deposite = "00";
 
                 QuatationLines QTLine = new QuatationLines();
                 QTLine.Margin = "10";
@@ -142,7 +143,12 @@ namespace F1ContractGenService.Controllers
                  
                 string FooterFix = "</tbody></table>";
 
-                string PDFHTNL = HTNLHeader + HTMLLine + FooterFix;
+
+                string SummaryHTML = GenerateQuatationSummary(header);
+
+                string PDFHTNL = HTNLHeader + HTMLLine + FooterFix + SummaryHTML;
+
+
 
                 PDFHTNL = GeneratePDF(PDFHTNL);
 
@@ -175,6 +181,17 @@ namespace F1ContractGenService.Controllers
             response.Content.Headers.ContentType = new MediaTypeHeaderValue("application/pdf");
             return response;
         }
+
+        [Route("USBDataSerive/Quatations/SendEmail")]
+        [HttpPost]
+        public string SendEmail(JObject jsonData)
+        {
+            new EmailProcessor().SendAlertOnBookingFailed(jsonData.Value<string>("Path").ToString());
+            
+            return "OK";
+        }
+
+        
 
 
 
@@ -471,5 +488,34 @@ namespace F1ContractGenService.Controllers
             return LineHtml;
         }
 
+        private string GenerateQuatationSummary(JObject footer) {
+
+            string HeaderHTML = "";
+           
+            try
+            {
+                string path = Path.Combine(Path.GetDirectoryName(AppDomain.CurrentDomain.BaseDirectory), @"DocumentTemplates\Quatation\Footer.html");
+                string[] files = File.ReadAllLines(path);
+
+                foreach (string x in files)
+                {
+                    HeaderHTML = HeaderHTML + x;
+                }
+                HeaderHTML = HeaderHTML.Replace("\n", "").Replace("\r", "");
+
+                HeaderHTML = HeaderHTML.Replace("{{SUBTOT}}", footer.Value<string>("SubTotal").ToString());
+                HeaderHTML = HeaderHTML.Replace("{{GST}}", footer.Value<string>("GST").ToString());
+                HeaderHTML = HeaderHTML.Replace("{{TOTAL}}", footer.Value<string>("Total").ToString());
+
+                HeaderHTML = HeaderHTML.Replace("{{DEPO}}", footer.Value<string>("Deposite").ToString());
+                HeaderHTML = HeaderHTML.Replace("{{BAL}}", footer.Value<string>("Balance").ToString()); 
+
+            }
+            catch (Exception ex)
+            {
+            }
+            return HeaderHTML;
+
+        }
     }
 }
