@@ -11,14 +11,14 @@ namespace F1ContractGenService.Controllers
 {
     public class EmailProcessor
     {
-        public bool SendAlertOnBookingFailed(string filePath)
+        public bool SendAlertOnBookingFailed(string filePath, string ToEmail)
         {
 
             try
             {
 
                 var fromAddress = new MailAddress("gimhanishiran@gmail.com", "Ushan Blinds Australia");
-                var toAddress = new MailAddress("gimhanishiran@gmail.com", "To Customer");
+                var toAddress = new MailAddress(ToEmail, "To Customer");
                 const string fromPassword = "Gimhani20201111";
                 const string subject = "Quotation for Customer";
                 const string body = "Sample Quation with the attachment!";
@@ -35,7 +35,7 @@ namespace F1ContractGenService.Controllers
 
 
                 System.Net.Mail.Attachment attachment;
-                attachment = new System.Net.Mail.Attachment(@"C:\USBProperties\Documents\Quatations\"+ filePath);
+                attachment = new System.Net.Mail.Attachment(@"C:\USBProperties\Documents\Quatations\QUOTATION.pdf");
 
 
                 using (var message = new MailMessage(fromAddress, toAddress)

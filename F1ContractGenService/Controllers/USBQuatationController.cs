@@ -186,7 +186,10 @@ namespace F1ContractGenService.Controllers
         [HttpPost]
         public string SendEmail(JObject jsonData)
         {
-            new EmailProcessor().SendAlertOnBookingFailed(jsonData.Value<string>("Path").ToString());
+            string path = jsonData.Value<string>("Path").ToString();
+            string To = jsonData.Value<string>("To").ToString();
+
+            new EmailProcessor().SendAlertOnBookingFailed(path, To);
             
             return "OK";
         }

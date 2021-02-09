@@ -79,10 +79,10 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>02/06/2021 13:40:55</publishTime>
     </File>
     <File Include="bin/F1ContractGenService.dll">
-      <publishTime>02/07/2021 21:07:46</publishTime>
+      <publishTime>02/09/2021 20:10:51</publishTime>
     </File>
     <File Include="bin/F1ContractGenService.pdb">
-      <publishTime>02/07/2021 21:07:46</publishTime>
+      <publishTime>02/09/2021 20:10:51</publishTime>
     </File>
     <File Include="bin/IronPdf.Assets.Rendering.Windows.dll">
       <publishTime>02/06/2021 13:40:55</publishTime>
@@ -327,8 +327,11 @@ by editing this MSBuild file. In order to learn more about this please visit htt
     <File Include="DLL/MvxSockN.dll">
       <publishTime>02/06/2021 13:40:52</publishTime>
     </File>
+    <File Include="DocumentTemplates/Quatation/Footer.html">
+      <publishTime>02/08/2021 22:33:37</publishTime>
+    </File>
     <File Include="DocumentTemplates/Quatation/Header.html">
-      <publishTime>02/07/2021 20:25:20</publishTime>
+      <publishTime>02/08/2021 22:33:37</publishTime>
     </File>
     <File Include="DocumentTemplates/Quatation/Lines.html">
       <publishTime>02/07/2021 18:30:44</publishTime>
